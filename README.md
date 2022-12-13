@@ -12,9 +12,9 @@
 
 <h3 align="left">Bana bağlan :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/furkan-ayd%c4%b1n-b0141a23b/" target="blank"><img align="center " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www .linkedin.com/in/furkan-ayd%c4%b1n-b0141a23b/" height="30" width="40" /></a> <
-a href="https://instagram.com/furkanaaydiin" hedefi ="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt ="furkanaaydiin" height="30" width="40" /></a>
-<a href="https://discord.gg/FurkanAydin#7451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/discord.svg" alt="FurkanAydin#7451" height="30" width="40" /></a> </p> <h3 align=
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/furkan-ayd%C4%B1n-b0141a23b/" target="blank"><img align="center " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www .linkedin.com/in/furkan-ayd%c4%b1n-b0141a23b/" height="30" width="40" /></a> <
+a href="https://www.instagram.com/furkanaaydiin/?next=%2F" hedefi ="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt ="furkanaaydiin" height="30" width="40" /></a>
+<a href="https://discords.com/templates/users/992422684598218792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/discord.svg" alt="FurkanAydin#7451" height="30" width="40" /></a> </p> <h3 align=
 "
 
 left ">Diller ve Araçlar:</h3>
