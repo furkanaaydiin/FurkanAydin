@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://furkanaydin.itch.io/](https://furkanaydin.itch.io/)
 
 - 📫 How to reach me **aydinbcs@gmail.com**
-
+  
 - 📄 Know about my experiences [https://www.linkedin.com/in/furkan-ayd%C4%B1n-b0141a23b/](https://www.linkedin.com/in/furkan-ayd%C4%B1n-b0141a23b/)
 
 <h3 align="left">Connect with me:</h3>
